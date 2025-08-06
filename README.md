@@ -1,4 +1,4 @@
-# Ticketing (think concert tickets)
+# Ticketing
 
 📚 This repository is a learning resource for building a full-stack application with [Nx](https://nx.dev), [NestJS](https://nestjs.com), [Angular](https://angular.dev), and [Ory](https://ory.sh).
 
